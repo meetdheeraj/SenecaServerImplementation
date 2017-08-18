@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test/*.test.js",
-	"start": "node main.js",
+	"start": "node main.js"
   },
   "author": "Dheeraj <kalgutkar.dheeraj@gmail.com>",
   "license": "GNU",
